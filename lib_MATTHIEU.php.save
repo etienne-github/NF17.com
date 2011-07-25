@@ -1,0 +1,35 @@
+?php
+
+
+function fdeleteContenuCatalogue($pCatalogue,$pConnection) 
+//SUPPRIME LE CONTEN$
+{
+
+}
+
+function fdeleteCatalogue($pCatalogue,$pConnection) //SUPPRIME UN 
+CATALOGUE
+{
+        //AFFICHER UN FEEDBACK
+}
+
+
+
+?>
+function fdeleteContenuCatalogue($pCatalogue,$pConnection)
+<?php
+
+
+function fdeleteContenuCatalogue($pCatalogue,$pConnection) //SUPPRIME LE CONTENU D'UN CATALOGUE
+{
+	
+}
+
+function fdeleteCatalogue($pCatalogue,$pConnection) //SUPPRIME UN CATALOGUE
+{
+	//AFFICHER UN FEEDBACK
+}
+
+	
+	
+?>
